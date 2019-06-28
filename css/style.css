@@ -1,0 +1,122 @@
+.jambotron-info {
+    margin-bottom: 0px;
+    background-image: url('plaza.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 180px;
+}
+.jambotron{
+    margin-bottom: 0px;
+    padding: 20px 60px;
+    padding-top: 40px;
+}
+
+.subtitle{
+    color: cornsilk;
+    font-size: x-large;
+}
+
+.subtitle_second {
+    color: cornflowerblue;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 50px;
+    letter-spacing: 4px;
+}
+
+.display-4{
+    text-align: center;
+    font-size: xx-large;
+}
+.custom-select{
+    text-align: left;
+}
+
+.form-control{
+    font-size: larger;
+}
+
+.btn{
+    font-size: larger;
+}
+
+.form-inline{
+    padding: 20px;
+}
+
+.container-second{
+    background-color: cornsilk;
+}
+
+.img{
+    width: 50px;
+    height: 50px;
+}
+
+.row{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.tree-info{
+    letter-spacing: 1px;
+    font-size: medium;
+    color: gray;
+}
+
+.subtitle_fourth{
+    letter-spacing: 2px;
+    font-size: medium;
+    color: cornflowerblue;
+
+}
+
+.subtitle_third {
+    color: cornflowerblue;
+    font-size: x-large;
+}
+
+.guides{
+    color: darkgray;
+    text-align: right;
+}
+
+.container-third{
+    background-color: gainsboro;
+}
+
+.rounded-top{
+    height: 160px;
+    width: 240px;
+}
+
+.card-deck{
+    margin: 18px;
+}
+
+.img-circle{
+    margin-top: 48%;
+    left: 5%;
+    position: absolute;
+    border-bottom-right-radius: 45%;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    border-bottom-left-radius: 45%;
+}
+
+.img-next-circle{
+    margin-top: 5%;
+    right: 5%;
+    position: absolute;
+    border-bottom-right-radius: 45%;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    border-bottom-left-radius: 45%;
+}
+
+
+
+
+
